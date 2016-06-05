@@ -1,0 +1,574 @@
+{
+	"GivenNames":[
+		{
+			"Name": "Tim",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Edna",
+			"Gender": "Female"
+		},
+		{	"Name": "David",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Hanna",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Anders",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Kim",
+			"Gender": "Both"
+		},
+		{
+			"Name": "Lars",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Anton",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Elin",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Camilla",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Cecilia",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Emma",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Ida",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Magnus",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Eli",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Daniel",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Amnon",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Andreas",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Angelica",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Karl",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Patrick",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Patricia",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Ingela",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Henrik",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Robert",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Jesper",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Jenny",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Linda",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Joachim",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Jimmy",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Martin",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Johan",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Johanna",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Martina",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Fredrik",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Lina",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Simone",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Simon",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Emil",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Anna",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Ragnar",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Gunborg",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Olof",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Kerstin",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Jakob",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Rut",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Jan",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Elsa",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Peter",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Laika",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Petter",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Penny",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Jonny",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Monica",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Joey",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Veronica",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Jonas",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Rachel",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Mats",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Lisa",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Jens",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Victoria",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Lennart",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Maria",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Erik",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Marie",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Per",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Margareta",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Nils",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Elisabeth",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Adam",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Eva",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Mikael",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Michaela",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Hans",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Karin",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Bengt",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Linnéa",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Gunnar",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Sara",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Alexander",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Alex",
+			"Gender": "Both"
+		},
+		{
+			"Name": "Gustav",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Helena",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Sven",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Sofia",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Åke",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Fia",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Göran",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Viola",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Leif",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Louise",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Stefan",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Steffanie",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Ulf",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Anita",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Bertil",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Ulla",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Thomas",
+			"Gender": "Male"
+		},
+		{
+			"Name": "Lena",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Susanne",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Inger",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Gunilla",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Malin",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Carina",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Ann",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Anne",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Annika",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Irene",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Astrid",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Åsa",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Julia",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Josefin",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Siv",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Matilda",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Amanda",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Alice",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Adele",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Robin",
+			"Gender": "Both"
+		},
+		{
+			"Name": "Therese",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Britt",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Agneta",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Lovisa",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Yvonne",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Ingegerd",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Ragna",
+			"Gender": "Female"
+		},
+		{
+			"Name": "Norna",
+			"Gender": "Female"
+		}
+	],
+	"Surnames":
+	[
+		{
+			"Name": "Svärd"
+		},
+		{
+			"Name": "Svensson"
+		},
+		{
+			"Name": "Andersson"
+		},
+		{
+			"Name": "Larsson"
+		},
+		{
+			"Name": "Karlsson"
+		},
+		{
+			"Name": "Svantesson"
+		},
+		{
+			"Name": "Cohen"
+		},
+		{
+			"Name": "Levi"
+		},
+		{
+			"Name": "Eriksson"
+		},
+		{
+			"Name": "Bertilsdotter"
+		},
+		{
+			"Name": "Johansson"
+		},
+		{
+			"Name": "Efraimsdotter"
+		},
+		{
+			"Name": "Eliasson"
+		},
+		{
+			"Name": "Trygg"
+		},
+		{
+			"Name": "Stark"
+		},
+		{
+			"Name": "Gudmundsson"
+		},
+		{
+			"Name": "Lind"
+		},
+		{
+			"Name": "Lundqvist"
+		},
+		{
+			"Name": "Palm"
+		},
+		{
+			"Name": "Månsson"
+		}
+	]
+}
